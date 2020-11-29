@@ -1,0 +1,10 @@
+C:\Users\Анюта\source\repos\Serialization\Serialization\obj\Debug\Serialization.csproj.CoreCompileInputs.cache
+C:\Users\Анюта\source\repos\Serialization\Serialization\bin\Debug\Serialization.exe.config
+C:\Users\Анюта\source\repos\Serialization\Serialization\bin\Debug\Serialization.exe
+C:\Users\Анюта\source\repos\Serialization\Serialization\bin\Debug\Serialization.pdb
+C:\Users\Анюта\source\repos\Serialization\Serialization\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Анюта\source\repos\Serialization\Serialization\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Анюта\source\repos\Serialization\Serialization\obj\Debug\Serialization.csproj.CopyComplete
+C:\Users\Анюта\source\repos\Serialization\Serialization\obj\Debug\Serialization.exe
+C:\Users\Анюта\source\repos\Serialization\Serialization\obj\Debug\Serialization.pdb
+C:\Users\Анюта\source\repos\Serialization\Serialization\obj\Debug\Serialization.csprojAssemblyReference.cache
